@@ -1,2 +1,2 @@
-#!/bin/bash
-grep -l school ./*
+0 string SCHOOL school found
+!:mime text/school

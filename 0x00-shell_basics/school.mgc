@@ -1,2 +1,2 @@
-#!/bin/bash
-grep -l school
+#!bin/bash
+grep -l school ./*

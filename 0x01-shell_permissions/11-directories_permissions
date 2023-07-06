@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod o+x -R $(pwd)
+chmod +x -R .

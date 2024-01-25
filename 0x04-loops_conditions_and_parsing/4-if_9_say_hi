@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # This script is displaying "Best School" 10 times
+# and "Hi" between the 9th and 10th iteration of "Best School"
 
 i=0;
 while ((i<10))
